@@ -1,0 +1,23 @@
+{
+  "name": "officeapi",
+  "version": "1.0.0",
+  "description": "This is simulation for office employee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achmadsalmanr/officeAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achmadsalmanr/officeAPI/issues"
+  },
+  "homepage": "https://github.com/achmadsalmanr/officeAPI#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
