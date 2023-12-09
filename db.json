@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Achmad Salman Ramadhan",
+      "division": "QA engineer",
+      "entity": "Technology",
+      "employeeId": "100001"
+    },
+    {
+      "id": 2,
+      "name": "Sandy Utama",
+      "division": "QA engineer",
+      "entity": "Technology",
+      "employeeId": "100002"
+    },
+    {
+      "name": "Bella inidikta",
+      "division": "Marketing",
+      "entity": "Technology",
+      "employeeId": "100003",
+      "id": 3
+    },
+    {
+      "name": "Bella Permata",
+      "division": "Sales",
+      "entity": "Technology",
+      "employeeId": "100004",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
